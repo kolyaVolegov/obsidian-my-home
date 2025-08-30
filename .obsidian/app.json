@@ -1,0 +1,26 @@
+{
+  "promptDelete": false,
+  "alwaysUpdateLinks": true,
+  "mobileToolbarCommands": [
+    "editor:insert-wikilink",
+    "editor:insert-embed",
+    "editor:insert-tag",
+    "editor:toggle-bullet-list",
+    "editor:toggle-numbered-list",
+    "editor:attach-file",
+    "editor:toggle-checklist-status",
+    "editor:set-heading",
+    "editor:toggle-bold",
+    "editor:toggle-italics",
+    "editor:toggle-highlight",
+    "editor:toggle-code",
+    "editor:toggle-blockquote",
+    "editor:insert-link",
+    "editor:indent-list",
+    "editor:unindent-list",
+    "editor:undo",
+    "editor:redo",
+    "editor:configure-toolbar"
+  ],
+  "newFileLocation": "root"
+}
